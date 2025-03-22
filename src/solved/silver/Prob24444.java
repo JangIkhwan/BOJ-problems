@@ -1,9 +1,9 @@
-package solving;
+package solved.silver;
 
 import java.io.*;
 import java.util.*;
 
-public class Main {
+public class Prob24444 {
     /*
     https://www.acmicpc.net/problem/24444
 

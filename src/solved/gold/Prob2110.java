@@ -47,9 +47,10 @@ public class Prob2110 {
         }
     }
 
+    //
     private static int findMaximumDist(){
-        int lo = minimumDist;
-        int hi = houses[N - 1] - houses[0] + 1;
+        int lo = minimumDist; // 칮는 구간에서 1 작은 값
+        int hi = houses[N - 1] - houses[0] + 1; // 찾는 구간에서 1 큰 값
         while(lo + 1 < hi){
             int mid = (lo + hi) / 2;
             if(canPlaceAccessPoints(mid)){
@@ -61,6 +62,7 @@ public class Prob2110 {
         }
         return lo;
     }
+    // T T T T T T<< F<<  F F F F F
 
     private static boolean canPlaceAccessPoints(int length){
         int accessPointNumber = 1;

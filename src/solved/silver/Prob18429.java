@@ -1,15 +1,14 @@
-package solving;
+package solved.silver;
 
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Prob18429 {
     /*
     https://www.acmicpc.net/problem/18429
 
     12:44 ~ 1:00
 
-    
 
     */
     private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

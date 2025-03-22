@@ -29,4 +29,5 @@ bin/
 .DS_Store
 
 ###
-src/solving/ignore
+src/solving/*
+*.xml

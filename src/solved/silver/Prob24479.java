@@ -1,4 +1,4 @@
-package solving;
+package solved.silver;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -6,7 +6,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Prob24479 {
     /*
     https://www.acmicpc.net/problem/24479
 

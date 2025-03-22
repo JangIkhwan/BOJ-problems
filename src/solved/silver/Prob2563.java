@@ -1,13 +1,13 @@
-package solving;
+package solved.silver;
 
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Prob2563 {
     /*
     https://www.acmicpc.net/problem/2563
 
-    2025/01/03 12:06 ~
+    2025/01/03 12:06 ~ 12:23
      */
     private static BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
     private static BufferedWriter bw = new BufferedWriter(new OutputStreamWriter(System.out));

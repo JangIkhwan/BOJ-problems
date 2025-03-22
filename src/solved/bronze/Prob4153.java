@@ -1,9 +1,9 @@
-package solving;
+package solved.bronze;
 
 import java.io.*;
 import java.util.StringTokenizer;
 
-public class Main {
+public class Prob4153 {
     /*
 
     https://www.acmicpc.net/problem/4153
