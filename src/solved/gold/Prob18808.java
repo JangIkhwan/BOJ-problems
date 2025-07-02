@@ -11,7 +11,7 @@ public class Prob18808 {
     /*
     https://www.acmicpc.net/problem/18808
 
-    25/07/02 20:59 ~
+    25/07/02 20:59 ~ 22:30
 
     0 1
     1 1
