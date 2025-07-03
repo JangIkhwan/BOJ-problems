@@ -27,6 +27,8 @@ public class Prob18808 {
     1 0
 
     어려웠던 점 : 시계 방향 90도 회전을 어떻게 구현해야할지 생각해내는 것이 어려웠음
+    공부할 내용 : 자바 레이블 문법! 중첩 반복문을 한번에 탈출할 때 유용하다!
+    개선할 점 : 실전에서는 30,40분 정도만 할애해야 함.
      */
 
     public static void main(String[] args) throws IOException{
